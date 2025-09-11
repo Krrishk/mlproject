@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Projects/mlproject/mlruns/0/04e7f3f53e3f4e10a31396ab79617bab/artifacts
+end_time: 1757629702342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04e7f3f53e3f4e10a31396ab79617bab
+run_name: sassy-quail-654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757629697901
+status: 3
+tags: []
+user_id: root

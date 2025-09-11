@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Projects/mlproject/mlruns/0/2b9dae33e5d44080b0fef1e03917df4f/artifacts
+end_time: 1757631672932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b9dae33e5d44080b0fef1e03917df4f
+run_name: fearless-perch-878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757631669674
+status: 3
+tags: []
+user_id: root

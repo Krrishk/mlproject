@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Projects/mlproject/mlruns/0/15784a68a4494154bd3c5ac9363a8417/artifacts
+end_time: 1757632169123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15784a68a4494154bd3c5ac9363a8417
+run_name: smiling-toad-171
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757632165765
+status: 3
+tags: []
+user_id: root
